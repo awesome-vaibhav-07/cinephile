@@ -37,6 +37,7 @@ class Cinevood : MainAPI() {
 
     override val mainPage = mainPageOf(
         "" to "Latest",
+        "telugu" to "Telugu",
         "bollywood" to "Bollywood",
         "hollywood" to "Hollywood",
         "gujarati" to "Gujarati",
